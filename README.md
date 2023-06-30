@@ -1,7 +1,7 @@
 ### Hi there 👋
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=en96321&theme=dark&show_icons=true)
-[GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=en96321&theme=dark&layout=compact&show_icons=true&langs_count=10)
-[github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=en96321&theme=onedark&no-frame=true&margin-w=30)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=en96321&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=en96321&theme=dark&layout=compact&show_icons=true&langs_count=10)
+![github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=en96321&theme=onedark&no-frame=true&margin-w=30)
 <!--
 **en96321/en96321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
